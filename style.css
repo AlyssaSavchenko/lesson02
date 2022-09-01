@@ -1,0 +1,67 @@
+html{
+    margin-left: 235px;
+    margin-right: 235px;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+    word-spacing: 27.5px;
+}
+
+li{
+    display: inline;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+a{
+    color: #828282;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #070707;
+}
+.firstscreen .denisnovik{
+    margin-top: 50px;
+}
+
+.firstscreen .section1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+}
+
+.aboutme{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.aboutme{
+    padding-top: 100px;
+    padding-bottom: 360px;
+}
+.aboutme .section2{
+    padding-right: 385px;
+    padding-left: 385px;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+}
+
+.aboutme .info{
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    gap: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    width: 480px;
+    height: 210px;
+    padding-right: 245px;
+    padding-left: 245px;
+    text-align: center;
+
+}
